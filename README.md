@@ -1,3 +1,16 @@
+#CounterApp Video Link 
+https://screenrec.com/share/a3SnUqzJgR
+
+#Screenshot of Counter Project
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
