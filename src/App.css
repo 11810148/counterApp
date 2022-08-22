@@ -1,0 +1,90 @@
+.outer .counter{
+margin-left: 10%;
+background-color: yellow;
+height: 60vh;
+width: 80vw;
+text-align: center;
+
+
+
+}
+.outer{
+text-align: center;
+height: 100vh;
+width: 100vw;
+border: 4px solid black;
+background-attachment: fixed;
+
+
+}
+.btn{
+font-size: 300%;
+height: 20%;
+width: 7%;
+background-color: black;
+border: none;
+margin-top: 10%;
+margin-right: 10%;
+color: white;
+border-radius: 15%;
+
+}
+.btn:hover{
+cursor: pointer;
+
+}
+
+
+
+
+
+#btn2{
+    font-size: 250%;
+    height: 20%;
+    width: 7%;
+    background-color: black;
+    border: none;
+    margin-top: 10%;
+    margin-left: 10%;
+    color: white;
+    
+
+
+
+}
+#btn3{
+    font-size: 250%;
+    height: 20%;
+    width: 15%;
+    background-color: red;
+    border: none;
+    margin-top: 5%;
+    margin-left: 3%;
+    color: white;
+    border-radius: 5px;
+
+
+
+}
+
+
+
+input{
+width: 20%;
+height: 15%;
+font-size: 350%;
+font-weight: bold;
+color: black;
+border: none;
+background: yellow;
+text-decoration-style: none;
+
+}
+
+
+
+
+
+
+
+
